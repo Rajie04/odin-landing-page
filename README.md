@@ -1,2 +1,2 @@
 # odin-landing-page
-CSS project
+My first CSS project !!
