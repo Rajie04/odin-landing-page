@@ -166,3 +166,13 @@ div p {
     border-radius: 5px;
     font-weight: 600;
 }
+
+footer {
+    height: 100px;
+    background-color: #1F2937;
+    color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
